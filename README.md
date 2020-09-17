@@ -1,1 +1,1 @@
-# OpenCvProyecto
+# ProyectoOpenCv
